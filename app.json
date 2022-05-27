@@ -1,5 +1,5 @@
 {
-  "name": "Heroku-v2ray",
+  "name": "hay",
   "description": "将v2ray部署在Heroku上",
   "keywords": [
     "v2ray VMess VLESS"
@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/us234/v2ray-cat",
-  "repository": "https://github.com/us234/v2ray-cat",
+  "website": "https://github.com/waynm/hay",
+  "repository": "https://github.com/waynm/hay",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
